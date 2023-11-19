@@ -1,24 +1,6 @@
 # Online Farmers Market 
 Online Farmer's Market is an online marketplace dedicated to fresh farm produce, encompassing a variety of vegetables, crops and fruits. This E-Commerce platform serves as a bridge between farmers seeking fair prices for their products and buyers looking to conveniently purchase farm produce through a user-friendly website.
 
-## Project Structure
-/V1_ofm
-├── ofm
-│ ├── Folder 01
-│ │ ├── file1.php
-│ │ ├── file2.html
-│ │ ├── file3.css
-│ │ └── ...
-│ ├── Folder 02
-│ │ ├── file4.php
-│ │ ├── file5.html
-│ │ ├── file6.css
-│ │ └── ...
-│ └── index.php
-├── project.sql
-└── README.md
-
-
 ## Technology Stack
 - HTML
 - CSS
